@@ -1,3 +1,3 @@
 # Tailwind Test
 
-This is a throwaway project to learn tailwind
+This is a single page app project to learn tailwind. Site can be found [here](https://kylemorris84.github.io/TailwindTest/)
